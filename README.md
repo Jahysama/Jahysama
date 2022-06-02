@@ -24,3 +24,7 @@
          <img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
          width="50">
 </p>
+
+<h2 align="center">
+  <img src="https://www.thethingaboutgreece.com/wp-content/uploads/2020/10/Down-Arrow-gif.gif" width="100">All my cool projects are pinned below<img src="https://www.thethingaboutgreece.com/wp-content/uploads/2020/10/Down-Arrow-gif.gif" width="100">
+</h2>

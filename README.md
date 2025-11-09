@@ -16,9 +16,6 @@
       <a href="https://that-bag.itch.io/">
          <img alt="itch" src="https://static.wikia.nocookie.net/english-otome-games/images/b/bd/Itchio.png/revision/latest?cb=20200629213038"
          width="50">
-      <a href="https://www.kaggle.com/jahysama">
-         <img alt="kaggle" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"
-         width="50">
       <a href="https://www.linkedin.com/in/egor-kosaretskiy-841789223">
          <img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
          width="50">
